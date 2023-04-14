@@ -3,7 +3,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e2345/)**
 <!-- run online end -->
 
-This example demonstrates how to create a template and add a hyperlink editor to the template to emulate command button functionality. You can enable or disable the command button in the check box editor.
+This example demonstrates how to create a template and add a hyperlink editor to that template to emulate command button functionality. You can enable or disable the command button in the check box editor.
 
 ![Enable or Disable Buttons](enableOrDisableButtons.png)
 
