@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # How to enable/disable command buttons on the client side
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2345/)**
+**[[Run Online]](https://codecentral.devexpress.com/128539980/)**
 <!-- run online end -->
 
 
