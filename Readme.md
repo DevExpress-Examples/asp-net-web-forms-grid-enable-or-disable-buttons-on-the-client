@@ -76,7 +76,7 @@ Follow the steps below to enable or disable custom command buttons:
 * [How to create a custom command button and specify its appearance and functionality based on a row state](https://github.com/DevExpress-Examples/how-to-create-a-custom-command-button-with-the-appearance-and-action-depending-on-a-row-state-e1246)
 * [Grid View for ASP.NET Web Forms - How to use external buttons to edit grid data](https://github.com/DevExpress-Examples/aspxgridview-use-external-buttons-to-edit-records)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-enable-or-disable-buttons-on-the-client&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-enable-or-disable-buttons-on-the-client&~~~was_helpful=no)
 
